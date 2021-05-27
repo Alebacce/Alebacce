@@ -1,4 +1,4 @@
 Hi there 👋
 
-- 📖 I’m currently studying Javascript
+- 📖 I’m currently studying MySql
 - 🎓 Boolean Careers student
