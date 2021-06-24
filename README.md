@@ -1,7 +1,7 @@
-Hi there 👋
+Hi devs! 👋
 
 - 📖 I’m currently studying Backend
-- Jr Full Stack Developer
+- 👨🏻‍💻 Jr Full Stack Developer
 - 🎓 Boolean Careers student
 
 Trying to do my best to learn and improve! 💪🏻
