@@ -1,4 +1,4 @@
-# Welcome devs! 👋
+# Welcome devs! �👋🏻
 
 * 📖 I’m currently studying Backend
 * 👨🏻‍💻 Jr Full Stack Developer
