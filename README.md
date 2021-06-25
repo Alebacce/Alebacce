@@ -4,7 +4,7 @@
 * 👨🏻‍💻 Jr Full Stack Developer
 * 🎓 Boolean Careers student
 
-### What I know
+## What I know
 ![dev_skills](https://user-images.githubusercontent.com/73042051/123401021-aa193c00-d5a6-11eb-9697-6a0abac2c191.png)
 
 
