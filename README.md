@@ -1,6 +1,6 @@
 # Welcome devs! 👋🏻
 
-* 📖 I’m currently studying Backend
+* 📖 I’m currently studying Laravel
 * 👨🏻‍💻 Jr Full Stack Developer
 * 🎓 Boolean Careers student
 
