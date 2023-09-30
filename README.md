@@ -1,6 +1,6 @@
 # Welcome devs! 👋🏻
 
-* 👨🏻‍💻 Jr Front-End Developer @Wikicasa
+* 👨🏻‍💻 Jr Back-End Developer @Wikicasa
 * 🎓 Boolean Careers student
 * 📖 Learning everyday
 
