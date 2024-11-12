@@ -2,7 +2,8 @@
 
 # UniGe Computer Science Student 👨🏻‍🎓 and Backend Developer 👨🏻‍💻
 
-* Learn Everyday 🔥
+📖 Learn Everyday 🔥
+Probably one day I'll have the time to do a project on my own
 
 <!-- * 👨🏻‍💻 Jr Back-End Developer @Wikicasa -->
 <!-- ** 🎓 Boolean Careers student -->
